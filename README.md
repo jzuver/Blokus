@@ -10,3 +10,4 @@ The goal of the game is to place all of your pieces on the board, while trying t
 ## Setup
 Clone the repo, and run gui.py. Click start in the welcome screen to start the game. 
 
+Created by: Stephen Carlson, Ryan Parker, Halina Vercessi and Joshua Zuver
